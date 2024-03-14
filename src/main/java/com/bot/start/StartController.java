@@ -18,7 +18,7 @@ public class StartController {
 
     public static void main(String[] args) throws LoginException {
         SpringApplication.run(DemoApplication.class, args);
-        System.out.println(token);
+        System.out.println();
 
     }
 }
