@@ -40,3 +40,4 @@ build/
 out
 gen
 test
+application.properties
